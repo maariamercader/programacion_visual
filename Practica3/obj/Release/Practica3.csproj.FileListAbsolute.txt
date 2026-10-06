@@ -1,0 +1,9 @@
+C:\Users\USUARIO\source\repos\Practica3\bin\Release\Practica3.exe.config
+C:\Users\USUARIO\source\repos\Practica3\bin\Release\Practica3.exe
+C:\Users\USUARIO\source\repos\Practica3\bin\Release\Practica3.pdb
+C:\Users\USUARIO\source\repos\Practica3\obj\Release\Practica3.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Practica3\obj\Release\Practica3.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Practica3\obj\Release\Practica3.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Practica3\obj\Release\Practica3.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Practica3\obj\Release\Practica3.exe
+C:\Users\USUARIO\source\repos\Practica3\obj\Release\Practica3.pdb

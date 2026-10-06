@@ -1,0 +1,9 @@
+C:\Users\USUARIO\source\repos\Practica4\bin\Release\Practica4.exe.config
+C:\Users\USUARIO\source\repos\Practica4\bin\Release\Practica4.exe
+C:\Users\USUARIO\source\repos\Practica4\bin\Release\Practica4.pdb
+C:\Users\USUARIO\source\repos\Practica4\obj\Release\Practica4.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Practica4\obj\Release\Practica4.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Practica4\obj\Release\Practica4.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Practica4\obj\Release\Practica4.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Practica4\obj\Release\Practica4.exe
+C:\Users\USUARIO\source\repos\Practica4\obj\Release\Practica4.pdb

@@ -1,0 +1,9 @@
+C:\Users\USUARIO\source\repos\Practica2\bin\Release\Practica2.exe.config
+C:\Users\USUARIO\source\repos\Practica2\bin\Release\Practica2.exe
+C:\Users\USUARIO\source\repos\Practica2\bin\Release\Practica2.pdb
+C:\Users\USUARIO\source\repos\Practica2\obj\Release\Practica2.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Practica2\obj\Release\Practica2.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\Practica2\obj\Release\Practica2.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\Practica2\obj\Release\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Practica2\obj\Release\Practica2.exe
+C:\Users\USUARIO\source\repos\Practica2\obj\Release\Practica2.pdb
